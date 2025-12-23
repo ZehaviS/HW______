@@ -1,0 +1,19 @@
+{
+  "FilePath": "d:\\2021\\2021-12-21\\fbi-demo\\FBI.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "FBI",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

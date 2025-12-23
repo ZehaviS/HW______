@@ -1,0 +1,121 @@
+D:\malky\fbi-demo\bin\Debug\net7.0\appsettings.Development.json
+D:\malky\fbi-demo\bin\Debug\net7.0\appsettings.json
+D:\malky\fbi-demo\bin\Debug\net7.0\FBI.exe
+D:\malky\fbi-demo\bin\Debug\net7.0\FBI.deps.json
+D:\malky\fbi-demo\bin\Debug\net7.0\FBI.runtimeconfig.json
+D:\malky\fbi-demo\bin\Debug\net7.0\FBI.dll
+D:\malky\fbi-demo\bin\Debug\net7.0\FBI.pdb
+D:\malky\fbi-demo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\malky\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\malky\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\malky\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\malky\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\malky\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\malky\fbi-demo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\malky\fbi-demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\malky\fbi-demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\malky\fbi-demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\malky\fbi-demo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\malky\fbi-demo\obj\Debug\net7.0\FBI.csproj.AssemblyReference.cache
+D:\malky\fbi-demo\obj\Debug\net7.0\FBI.GeneratedMSBuildEditorConfig.editorconfig
+D:\malky\fbi-demo\obj\Debug\net7.0\FBI.AssemblyInfoInputs.cache
+D:\malky\fbi-demo\obj\Debug\net7.0\FBI.AssemblyInfo.cs
+D:\malky\fbi-demo\obj\Debug\net7.0\FBI.csproj.CoreCompileInputs.cache
+D:\malky\fbi-demo\obj\Debug\net7.0\FBI.MvcApplicationPartsAssemblyInfo.cs
+D:\malky\fbi-demo\obj\Debug\net7.0\FBI.MvcApplicationPartsAssemblyInfo.cache
+D:\malky\fbi-demo\obj\Debug\net7.0\staticwebassets\msbuild.FBI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\malky\fbi-demo\obj\Debug\net7.0\staticwebassets\msbuild.build.FBI.props
+D:\malky\fbi-demo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FBI.props
+D:\malky\fbi-demo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FBI.props
+D:\malky\fbi-demo\obj\Debug\net7.0\staticwebassets.pack.json
+D:\malky\fbi-demo\obj\Debug\net7.0\staticwebassets.build.json
+D:\malky\fbi-demo\obj\Debug\net7.0\staticwebassets.development.json
+D:\malky\fbi-demo\obj\Debug\net7.0\scopedcss\bundle\FBI.styles.css
+D:\malky\fbi-demo\obj\Debug\net7.0\FBI.csproj.CopyComplete
+D:\malky\fbi-demo\obj\Debug\net7.0\FBI.dll
+D:\malky\fbi-demo\obj\Debug\net7.0\refint\FBI.dll
+D:\malky\fbi-demo\obj\Debug\net7.0\FBI.pdb
+D:\malky\fbi-demo\obj\Debug\net7.0\FBI.genruntimeconfig.cache
+D:\malky\fbi-demo\obj\Debug\net7.0\ref\FBI.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\appsettings.Development.json
+D:\2023\fbi-demo\bin\Debug\net7.0\appsettings.json
+D:\2023\fbi-demo\bin\Debug\net7.0\FBI.exe
+D:\2023\fbi-demo\bin\Debug\net7.0\FBI.deps.json
+D:\2023\fbi-demo\bin\Debug\net7.0\FBI.runtimeconfig.json
+D:\2023\fbi-demo\bin\Debug\net7.0\FBI.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\FBI.pdb
+D:\2023\fbi-demo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\2023\fbi-demo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.csproj.AssemblyReference.cache
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.AssemblyInfoInputs.cache
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.AssemblyInfo.cs
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.csproj.CoreCompileInputs.cache
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.MvcApplicationPartsAssemblyInfo.cs
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.MvcApplicationPartsAssemblyInfo.cache
+D:\2023\fbi-demo\obj\Debug\net7.0\staticwebassets\msbuild.FBI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2023\fbi-demo\obj\Debug\net7.0\staticwebassets\msbuild.build.FBI.props
+D:\2023\fbi-demo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FBI.props
+D:\2023\fbi-demo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FBI.props
+D:\2023\fbi-demo\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2023\fbi-demo\obj\Debug\net7.0\staticwebassets.build.json
+D:\2023\fbi-demo\obj\Debug\net7.0\staticwebassets.development.json
+D:\2023\fbi-demo\obj\Debug\net7.0\scopedcss\bundle\FBI.styles.css
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.csproj.CopyComplete
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.dll
+D:\2023\fbi-demo\obj\Debug\net7.0\refint\FBI.dll
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.pdb
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.genruntimeconfig.cache
+D:\2023\fbi-demo\obj\Debug\net7.0\ref\FBI.dll
+D:\2023\fbi-demo\obj\Debug\net7.0\FBI.sourcelink.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\appsettings.Development.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\appsettings.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\FBI.staticwebassets.endpoints.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\FBI.exe
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\FBI.deps.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\FBI.runtimeconfig.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\FBI.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\FBI.pdb
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\Microsoft.OpenApi.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.csproj.AssemblyReference.cache
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\rpswa.dswa.cache.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.AssemblyInfoInputs.cache
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.AssemblyInfo.cs
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.csproj.CoreCompileInputs.cache
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.MvcApplicationPartsAssemblyInfo.cs
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.MvcApplicationPartsAssemblyInfo.cache
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.sourcelink.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\rjimswa.dswa.cache.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\scopedcss\bundle\FBI.styles.css
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\staticwebassets.build.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\staticwebassets.build.json.cache
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\staticwebassets.development.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.csproj.Up2Date
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\refint\FBI.dll
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.pdb
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\FBI.genruntimeconfig.cache
+Z:\Handasa\מורות תשפו\זילברברג\2025-12-23\fbi-demo\obj\Debug\net7.0\ref\FBI.dll
